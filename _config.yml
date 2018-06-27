@@ -11,7 +11,7 @@ title                    : "AI & Neuroscience"
 title_separator          : "-"
 name                     : &name "Katerina Malakhova"
 description              : &description "personal website"
-url                      : https://kmalakhova.com
+url                      : kmalakhova.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taneta/taneta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
