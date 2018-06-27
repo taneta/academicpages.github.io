@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Katerina Malakhova / AI for neuroscience"
+title                    : "AI & Neuroscience"
 title_separator          : "-"
 name                     : &name "Katerina Malakhova"
 description              : &description "personal website"
