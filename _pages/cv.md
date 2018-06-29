@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Physiology of Vision, Pavlov Institute of Physiology, in progress
+* M.S. in Cognitive Sciences, St.Petersburg State University, 2014
+* Specialist degree in Management, St.Petersburg State University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* JUL 2014 - NOW: Research Assistant
+  * Pavlov Institute of Physiology
+  * Duties include: I apply data analysis to neurophysiological data and conduct experiments to study psychophysiological aspects of human visual perception.  Main projects:
+  ** Using deep networks (DNNs) to visualize  information representations in latest stages of ventral visual pathway
+  ** Developed tools for text analysis (syntactic structure analysis,  segmentation of regions containing text on images) and conducted experiments on text perception
+  ** Created a DNN for estimation of gaze direction based on webcam data
+
   * Supervisor: Professor Hub
+  
+* DEC 2015 - APR 2017: Part-time researcher
+  * Brain Science Institute, RIKEN, Tokyo, Japan 
+  * Duties included: I studied the effect of priming information during face detection task. For that I developed a software solution and conducted a preliminary experiment.  I also started researching functional similarities in information processing in monkey’s Inferior temporal cortex and deep layers of Convolutional neural networks and currently continue to work on this project remotely. 
+  * Supervisor: Tanifuji Manabu
+
   
 Skills
 ======

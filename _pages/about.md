@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi, I am Katerina"
-excerpt: "Hi, I am Katerina"
+excerpt: "Katerina Malakhova"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,8 @@ redirect_from:
 I study visual perception in humans and machines
 ------
 
-My research focuses on understanding how objects and events of the outside world, which a living being experience through its sensors, form abstract representations in the nervous system. How they are then stored and used. I explore principles underlie these processes on the example of the visual system. Specifically, I target late stages visual processing, where neurons tuned to respond to complex images performing object recognition.
+My research focuses on understanding how objects and events of the outside world, which a living being experiences through its sensors, form abstract representations in the nervous system. How these are then stored and used to ensure the survival and effective functioning of an organism. 
 
-At the same time, I pay as much attention to systems of computer vision for two main reasons. First, because of some seen similarities between biological systems and artificial neural networks, the latter can be conveniently used models. Second, because we rely on artificial models in many respects, we should understand how different they are and what are their limitations. Thus, the way visual signal is processed in artificial neural networks to form high-level representations and later during decision process  is no less important.
+I explore principles underlie these processes in the context of the visual system. Specifically, I target late stages visual processing, where object and face recognition happens.
 
+At the same time, I pay as much attention to systems of computer vision for two main reasons. First, due to a number of observable similarities between biological systems and artificial neural networks, the latter can be conveniently used for the purpose of vision perception modelling. Second, because such models are widely used in both academia and industry, it is important to understand what are the differences and limitations in the way they perform recognition in comparison to the human visual system. Thus, I investigate how artificial neural networks form high-level representations and how these  representations are used during decision process.
