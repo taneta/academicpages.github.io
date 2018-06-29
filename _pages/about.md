@@ -10,7 +10,6 @@ redirect_from:
 
 Hi, I'm Katerina
 ======
-
 I study visual perception in humans and machines
 ------
 
