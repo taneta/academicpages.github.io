@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Hi, I am Katerina"
+title: "Katerina Malakhova"
 excerpt: "Katerina Malakhova"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi, I'm Katerina
+======
 
 I study visual perception in humans and machines
 ------
