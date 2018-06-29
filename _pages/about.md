@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Katerina
-------
-I study visual perception in humans and machines
-------
+## Hi, I'm Katerina
+## I study visual perception in humans and machines
 
-<div style="text-align: right">
+<div style="text-align: justify">
 My research focuses on understanding how objects and events of the outside world, which a living being experiences through its sensors, form abstract representations in the nervous system. How these are then stored and used to ensure the survival and effective functioning of an organism. 
 
 I explore principles underlie mentioned processes in the context of the visual system. Specifically, I target late stages visual processing, where object and face recognition happens.
