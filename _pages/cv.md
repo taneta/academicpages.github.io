@@ -18,18 +18,17 @@ Education
 Work experience
 ======
 
-* JUL 2014 - NOW: Ph.D. Student, Research Assistant
-  * Pavlov Institute of Physiology
-  * Ph.D. thesis topic: “Information processing in higher-order areas of the visual cortex.”
-  * In our laboratory, I lead works on data analysis and deep learning. Some of my projects:
-    ** Visualization of information encoded by neurons using GANs:
-      *** Developed an approach for visualization of latent representations encoded by neurons using generative networks. Implemented a system for short-loop integration of neural response with the generative approach. 
-    ** Segmentation of pathologies on OCT retinal scans:
-      *** Implemented a compact convolutional neural network for segmentation of Pigment epithelial detachment regions using loosely-labeled data.
-    ** Estimation of gaze direction based on webcam data:
-      *** Enhanced the prediction of gaze direction based on webcam data by including temporal information.
-    ** Text perception:
-      *** Developed a tool for text analysis (natural language processing - syntactic structure analysis,  segmentation of regions containing text on images) and conducted experiments on text perception.
+* JUL 2014 - NOW: Ph.D. Student, Research Assistant, Pavlov Institute of Physiology, Russian Academy of Science
+* Ph.D. thesis topic: “Information processing in higher-order areas of the visual cortex.”
+* In our laboratory, I lead works on data analysis and deep learning. Some of my projects:
+  * Visualization of information encoded by neurons using GANs:
+  - Developed an approach for visualization of latent representations encoded by neurons using generative networks. Implemented a system for short-loop integration of neural response with the generative approach. 
+  * Segmentation of pathologies on OCT retinal scans:
+  - Implemented a compact convolutional neural network for segmentation of Pigment epithelial detachment regions using loosely-labeled data.
+  * Estimation of gaze direction based on webcam data:
+  - Enhanced the prediction of gaze direction based on webcam data by including temporal information.
+  * Text perception:
+  - Developed a tool for text analysis (natural language processing - syntactic structure analysis,  segmentation of regions containing text on images) and conducted experiments on text perception.
 
   * Supervisor: Shelepin Yuri
   
