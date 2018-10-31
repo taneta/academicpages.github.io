@@ -18,22 +18,21 @@ Education
 Work experience
 ======
 
-* JUL 2014 - NOW: Ph.D. Student, Research Assistant, Pavlov Institute of Physiology, Russian Academy of Science
+* JUL 2014 - NOW: Ph.D. Student, Research Assistant, <i>Pavlov Institute of Physiology, Russian Academy of Science</i>
 * Ph.D. thesis topic: “Information processing in higher-order areas of the visual cortex.”
 * In our laboratory, I lead works on data analysis and deep learning. Some of my projects:
   * Visualization of information encoded by neurons using GANs:
-  - Developed an approach for visualization of latent representations encoded by neurons using generative networks. Implemented a system for short-loop integration of neural response with the generative approach. 
+  -- Developed an approach for visualization of latent representations encoded by neurons using generative networks. Implemented a system for short-loop integration of neural response with the generative approach. 
   * Segmentation of pathologies on OCT retinal scans:
-  - Implemented a compact convolutional neural network for segmentation of Pigment epithelial detachment regions using loosely-labeled data.
+  -- Implemented a compact convolutional neural network for segmentation of Pigment epithelial detachment regions using loosely-labeled data.
   * Estimation of gaze direction based on webcam data:
-  - Enhanced the prediction of gaze direction based on webcam data by including temporal information.
+  -- Enhanced the prediction of gaze direction based on webcam data by including temporal information.
   * Text perception:
-  - Developed a tool for text analysis (natural language processing - syntactic structure analysis,  segmentation of regions containing text on images) and conducted experiments on text perception.
+  -- Developed a tool for text analysis (natural language processing - syntactic structure analysis,  segmentation of regions containing text on images) and conducted experiments on text perception.
 
   * Supervisor: Shelepin Yuri
   
-* DEC 2015 - APR 2017: Part-time researcher
-  * Brain Science Institute, RIKEN, Tokyo, Japan 
+* DEC 2015 - APR 2017: Part-time researcher, <i>Brain Science Institute, RIKEN, Tokyo, Japan </i>
   * In Tanifuju’s lab, I studied the effect of priming information during face detection task: created a dataset set of faces and objects, preprocessed the images, implemented an experimental software, conducted a preliminary study. Another project I started during my exchange program and continued remotely afterward was about the functional similarities in information processing in monkey’s Inferior temporal cortex and deep layers of Convolutional neural networks. 
   * Supervisor: Tanifuji Manabu
 
