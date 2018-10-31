@@ -2,7 +2,7 @@
 title: "How representations coded by neurons in deep neural networks differ from neural data"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2018-05-16-representations
+permalink: /talks/2018-05-16-spcn-representations
 venue: "IEEE International Conference on Video and Audio Signal Processing in the Context of Neurotechnologies"
 date: 2018-05-16
 location: "St.Petersburg, Russia"
