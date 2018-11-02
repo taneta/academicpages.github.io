@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, I am Katerina
+## Hello there,
+
 ### I study visual perception in biological and artificial systems
 
 <div style="text-align: justify">
