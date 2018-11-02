@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://kmalakhova.com/files/Resume Katerina Malakhova.pdf)
+[Download CV here](http://kmalakhova.com/files/Resume_Katerina_Malakhova.pdf)
 
 Education
 ======
